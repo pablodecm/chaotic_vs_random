@@ -1,0 +1,13 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Pablo de Castro}
+((* endblock author *))
+
+((* block title *))
+\title{Ejercicio - Series temporales aleatorias y caóticas}
+((* endblock title *))
+
+% Disable input cells
+((* block input_group *))
+((* endblock input_group *))
