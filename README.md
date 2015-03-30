@@ -13,7 +13,7 @@ and numpy).
 
 The latest version on the notebook can be viewed online (but not edited or executed) using the
 following link:
-  - [chaotic_vs_random](http://nbviewer.ipython.org/github/pablodecm/chaotic_vs_random/blob/master/notebooks/Ejercicio%20-%20%20Series%20Temporales%20Aleatoria%20y%20Ca%C3%B3ticas.ipynb)
+  - [chaotic_vs_random](http://nbviewer.ipython.org/github/pablodecm/chaotic_vs_random/blob/master/notebooks/chaotic_vs_random.ipynb)
 
 For the execution in a computer, once every requirement is set:
 
