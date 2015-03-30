@@ -17,14 +17,14 @@ following link:
 
 For the execution in a computer, once every requirement is set:
 
-  git clone https://github.com/pablodecm/chaotic_vs_random.git
-  cd notebooks
-  ipython notebook chaotic_vs_random.ipynb
+    git clone https://github.com/pablodecm/chaotic_vs_random.git
+    cd notebooks
+    ipython notebook chaotic_vs_random.ipynb
 
 Lastly, a template and a configuration file is provided to export a PDF, which
 can be done once you have cloned the repository (see above):
 
-  cd notebooks
-  ipython nbconvert
+    cd notebooks
+    ipython nbconvert
 
 Enjoy, learn and share if you like!
